@@ -118,7 +118,6 @@
         "magento/module-gift-wrapping-staging": "*",
         "magento/module-google-adwords": "*",
         "magento/module-google-optimizer-staging": "*",
-        "magento/module-graph-ql": "*",
         "magento/module-graph-ql-cache": "*",
         "magento/module-grouped-import-export": "*",
         "magento/module-grouped-product-graph-ql": "*",
