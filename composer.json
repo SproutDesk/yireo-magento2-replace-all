@@ -65,7 +65,6 @@
         "magento/module-catalog-cms-graph-ql": "*",
         "magento/module-catalog-customer-graph-ql": "*",
         "magento/module-catalog-customer-ql": "*",
-        "magento/module-catalog-graph-ql": "*",
         "magento/module-catalog-import-export-staging": "*",
         "magento/module-catalog-inventory-graph-ql": "*",
         "magento/module-catalog-inventory-staging": "*",
