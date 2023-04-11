@@ -260,7 +260,6 @@
         "magento/module-wishlist-graph-ql": "*",
         "magento/module-wishlist-sample-data": "*",
         "magento/module-worldpay": "*",
-        "magento/page-builder": "*",
         "magento/sample-data-media": "*",
         "paypal/module-braintree": "*",
         "paypal/module-braintree-core": "*",
