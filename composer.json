@@ -107,7 +107,6 @@
         "magento/module-downloadable-import-export": "*",
         "magento/module-downloadable-sample-data": "*",
         "magento/module-downloadable-staging": "*",
-        "magento/module-eav-graph-ql": "*",
         "magento/module-eway": "*",
         "magento/module-fedex": "*",
         "magento/module-gift-card-account-graph-ql": "*",
